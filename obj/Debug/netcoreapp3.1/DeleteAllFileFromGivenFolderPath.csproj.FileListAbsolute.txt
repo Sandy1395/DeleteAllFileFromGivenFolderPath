@@ -1,0 +1,13 @@
+D:\Projects\DeleteAllFileFromGivenFolderPath\bin\Debug\netcoreapp3.1\DeleteAllFileFromGivenFolderPath.exe
+D:\Projects\DeleteAllFileFromGivenFolderPath\bin\Debug\netcoreapp3.1\DeleteAllFileFromGivenFolderPath.deps.json
+D:\Projects\DeleteAllFileFromGivenFolderPath\bin\Debug\netcoreapp3.1\DeleteAllFileFromGivenFolderPath.runtimeconfig.json
+D:\Projects\DeleteAllFileFromGivenFolderPath\bin\Debug\netcoreapp3.1\DeleteAllFileFromGivenFolderPath.runtimeconfig.dev.json
+D:\Projects\DeleteAllFileFromGivenFolderPath\bin\Debug\netcoreapp3.1\DeleteAllFileFromGivenFolderPath.dll
+D:\Projects\DeleteAllFileFromGivenFolderPath\bin\Debug\netcoreapp3.1\DeleteAllFileFromGivenFolderPath.pdb
+D:\Projects\DeleteAllFileFromGivenFolderPath\obj\Debug\netcoreapp3.1\DeleteAllFileFromGivenFolderPath.csprojAssemblyReference.cache
+D:\Projects\DeleteAllFileFromGivenFolderPath\obj\Debug\netcoreapp3.1\DeleteAllFileFromGivenFolderPath.AssemblyInfoInputs.cache
+D:\Projects\DeleteAllFileFromGivenFolderPath\obj\Debug\netcoreapp3.1\DeleteAllFileFromGivenFolderPath.AssemblyInfo.cs
+D:\Projects\DeleteAllFileFromGivenFolderPath\obj\Debug\netcoreapp3.1\DeleteAllFileFromGivenFolderPath.csproj.CoreCompileInputs.cache
+D:\Projects\DeleteAllFileFromGivenFolderPath\obj\Debug\netcoreapp3.1\DeleteAllFileFromGivenFolderPath.dll
+D:\Projects\DeleteAllFileFromGivenFolderPath\obj\Debug\netcoreapp3.1\DeleteAllFileFromGivenFolderPath.pdb
+D:\Projects\DeleteAllFileFromGivenFolderPath\obj\Debug\netcoreapp3.1\DeleteAllFileFromGivenFolderPath.genruntimeconfig.cache
